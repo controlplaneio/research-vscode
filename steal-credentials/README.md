@@ -39,3 +39,11 @@ flowchart
 	EVIL_EXTENSION --> LIBSECRET
 	EVIL_EXTENSION --> SQLITE
 ```
+
+## Threat Model
+
+The overall attack flow is shown in the diagram below:
+
+![malicious-vscode-extension-steal-credentials](./img/malicious-vscode-ext-steal-creds.png)
+
+The raw file for the [attack flow builder](https://center-for-threat-informed-defense.github.io/attack-flow/ui/) is located alongside the diagram in the `img` directory.
