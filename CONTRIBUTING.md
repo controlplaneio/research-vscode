@@ -26,10 +26,6 @@ The following is a set of guidelines for contributing to a Control Plane project
 
 ---
 
-## I Don't Want To Read This Whole Thing I Just Have a Question!!!
-
-Please message the Zulip `cp-training` stream. We also have an issue template for questions.
-
 ## How Can I Contribute?
 
 ### Reporting Bugs
@@ -40,6 +36,7 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue
 > and include a link to the original issue in the body of your new one.
+
 #### Before Submitting a Bug Report
 
 - **Perform a cursory search** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one

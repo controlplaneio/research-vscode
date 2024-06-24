@@ -1,7 +1,3 @@
-# Control Plane Repo Template
+# VSCode Extensions Research
 
-- [ROADMAP.md](ROADMAP.md)
-- [CHANGELOG.md](CHANGELOG.md)
-- [DECISIONS.md](DECISIONS.md)
-- [CONTRIBUTING.md](CONTRIBUTING.md)
-- [SECURITY.md](SECURITY.md)
+A repository for researching the security of Visual Studio Code extensions. It includes proof of concept code to demonstrate how an adversary can leverage a malicious extension to access local and remote systems.
