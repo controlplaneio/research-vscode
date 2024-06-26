@@ -5,3 +5,12 @@ A repository for researching the security of Visual Studio Code extensions. It i
 ## Current Examples
 
 - [Steal Credentials Extension](./steal-credentials/)
+
+## Literature
+
+- [VSCode Security Part 1](https://control-plane.io/posts/vscode-security-part-1/)
+- [VSCode Security Part 1](https://control-plane.io/posts/vscode-security-part-2/)
+
+---
+
+Built with ❤ by https://control-plane.io/
