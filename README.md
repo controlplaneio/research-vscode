@@ -8,9 +8,9 @@ A repository for researching the security of Visual Studio Code extensions. It i
 
 ## Literature
 
-- [VSCode Security Part 1](https://control-plane.io/posts/vscode-security-part-1/)
-- [VSCode Security Part 1](https://control-plane.io/posts/vscode-security-part-2/)
+- [Abusing VSCode: From Malicious Extensions to Stolen Credentials (Part 1)](https://control-plane.io/posts/abusing-vscode-from-malicious-extensions-to-stolen-credentials-part-1/)
+- [Abusing VSCode: From Malicious Extensions to Stolen Credentials (Part 2)](https://control-plane.io/posts/abusing-vscode-from-malicious-extensions-to-stolen-credentials-part-2/)
 
 ---
 
-Built with ❤ by https://control-plane.io/
+With ❤ from [ControlPlane](https://control-plane.io/)
